@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite A" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+    <groups>
+    </groups>
+    <test name="Test A1" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+      <class name="SuiteA.TestA1">
+        <test-method status="PASS" signature="testA1()[pri:0, instance:SuiteA.TestA1@1055e4af]" name="testA1" duration-ms="2009" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA1 -->
+      </class> <!-- SuiteA.TestA1 -->
+    </test> <!-- Test A1 -->
+    <test name="Test A2" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+      <class name="SuiteA.TestA2">
+        <test-method status="PASS" signature="testA2()[pri:0, instance:SuiteA.TestA2@3339ad8e]" name="testA2" duration-ms="2009" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA2 -->
+      </class> <!-- SuiteA.TestA2 -->
+    </test> <!-- Test A2 -->
+    <test name="Test A3" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+      <class name="SuiteA.TestA3">
+        <test-method status="PASS" signature="testA1()[pri:0, instance:SuiteA.TestA3@2a3046da]" name="testA1" duration-ms="2010" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA1 -->
+      </class> <!-- SuiteA.TestA3 -->
+    </test> <!-- Test A3 -->
+  </suite> <!-- Suite A -->
+  <suite name="My Suite" duration-ms="0" started-at="2020-06-17T06:23:41Z" finished-at="2020-06-17T06:23:41Z">
+    <groups>
+    </groups>
+  </suite> <!-- My Suite -->
+  <suite name="SuiteB" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+    <groups>
+    </groups>
+    <test name="Test B3" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+      <class name="SuiteB.TestB3">
+        <test-method status="PASS" signature="testB3()[pri:0, instance:SuiteB.TestB3@51016012]" name="testB3" duration-ms="2010" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB3 -->
+      </class> <!-- SuiteB.TestB3 -->
+    </test> <!-- Test B3 -->
+    <test name="Test B1" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+      <class name="SuiteB.TestB1">
+        <test-method status="PASS" signature="testB1()[pri:0, instance:SuiteB.TestB1@63e31ee]" name="testB1" duration-ms="2010" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB1 -->
+      </class> <!-- SuiteB.TestB1 -->
+    </test> <!-- Test B1 -->
+    <test name="Test B2" duration-ms="2046" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+      <class name="SuiteB.TestB2">
+        <test-method status="PASS" signature="testB2()[pri:0, instance:SuiteB.TestB2@1761e840]" name="testB2" duration-ms="2010" started-at="2020-06-17T06:23:39Z" finished-at="2020-06-17T06:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB2 -->
+      </class> <!-- SuiteB.TestB2 -->
+    </test> <!-- Test B2 -->
+  </suite> <!-- SuiteB -->
+</testng-results>
